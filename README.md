@@ -2,5 +2,5 @@
 Learning Golang
 
 ## Content
-Introduction
-Functions
+*Introduction
+*Functions
