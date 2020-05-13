@@ -1,6 +1,7 @@
 # golang
 Learning Golang
 
-## Content
-* Introduction
-* Functions
+### Contents
+* [Introduction]
+* [Functions]
+    - [Test]
