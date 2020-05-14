@@ -8,9 +8,11 @@ If you see a package or project here that is no longer maintained or is not a go
 
 Thanks to all [contributors](https://github.com/aboulmaaly/golang/graphs/contributors); you rock!
 
-## Contents :
+## Contents
 
 * [Introduction](introduction)
-    - [hello world](introduction/hello_world.go)
+  - [hello world](introduction/hello_world.go)
 * [Functions](functions)
-    - [Function Returning Another Function](functions/func_ret_func.go)
+  - [Function Returning Another Function](functions/func_ret_func.go)
+* [Arrays and Slices](arrays_slices)
+  - [Declaration and Initialization](arrays_slices/declaration.go)
